@@ -1,2 +1,2 @@
 # hello-world
-The Hello World project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+El proyecto Hello World es una tradición consagrada en la programación de computadoras. Es un ejercicio simple que te ayuda a comenzar a aprender algo nuevo. ¡Empecemos con GitHub!
